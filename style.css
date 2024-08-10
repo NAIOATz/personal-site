@@ -1,0 +1,13 @@
+.carousel-item img {
+    height: 500px; /* Adjust height as needed */
+    object-fit: cover;
+}
+
+.MJ-pic {
+    border-radius: 50%;
+}
+
+.carousel-caption {
+    background-color: rgb(0, 0, 0);
+    opacity: 0.8;
+}
